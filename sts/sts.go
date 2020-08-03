@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/satori/go.uuid"
+	uuid "github.com/satori/go.uuid"
 )
 
 // Client sts client
